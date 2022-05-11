@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @fmardoka
-- 👀 I’m interested to study and post my project and ideas
+- 🇧🇷 Brazilian student
+- 👀 I’m interested to study to improve my programmer career
 - 🌱 I’m currently learning computer science
 - 💞️ For now, I don't intend to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me: mardoca3@gmail.com
 
 <!---
 fmardoka/fmardoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
