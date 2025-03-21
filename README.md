@@ -20,7 +20,7 @@ I'm technology enthusiast driven by stimulating challenges. At 22 years old, I'v
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css3" width="40" height="40"/></code>
   
 
   
