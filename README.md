@@ -26,7 +26,7 @@ I'm a 22-year-old technology enthusiast, passionate about programming, data anal
 ### 📊 GitHub Stats
 <a href="https://www.linkedin.com/in/fmardoka/" target="_blank">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipemardoqueu&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemardoqueu&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemardoqueu&layout=compact&langs_count=7&theme=chartreuse-dark"/>-->
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=felipemardoqueu.felipemardoqueu)
