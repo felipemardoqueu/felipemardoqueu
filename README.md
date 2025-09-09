@@ -4,7 +4,7 @@ I'm a 22-year-old technology enthusiast, passionate about programming, data anal
 
 + 🇧🇷 From São Paulo - SP  
 + 🧑🏻‍💻 BackEnd Developer & Data Analysis  
-+ ☁ BackEnd & Data Intern at [Gentrop](https://www.gentrop.com/)
++ ☁ BackEnd & Data Intern at <a href="https://www.gentrop.com/" target="_blank">Gentrop</a>
 
 ### My skills: 
 <p align="left"> 
