@@ -1,10 +1,10 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans&weight=800&size=50&pause=3000&color=004ab8&background=FFFFFF00&width=600&height=90&lines=Hi,+I'm+Felipe!+👋🏼;Backend+Developer💻)](https://git.io/typing-svg)
 
-I'm a 22-year-old technology enthusiast, passionate about programming, data analysis, and building impactful solutions. 🚀🇧🇷
+I'm a 23-year-old technology enthusiast, passionate about programming, data analysis, and building impactful solutions. 🚀🇧🇷
 
 + 🇧🇷 From São Paulo - SP  
 + 🧑🏻‍💻 BackEnd Developer & Data Analysis  
-+ ☁ BackEnd & Data Intern at [Gentrop](https://www.gentrop.com/)
++ ☁ Developer at [Gentrop](https://www.gentrop.com/)
 
 ### My skills: 
 <p align="left"> 
